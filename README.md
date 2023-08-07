@@ -5,9 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media.tenor.com/images/57a2a81ff64c3c7a318ac6d0f0cd8f40/tenor.gif" alt="Goat Klay" />
+  <img src="https://cdn.discordapp.com/attachments/826814606298316882/1137945283381170206/KT.gif" alt="Goat Klay" />
 </div>
-
 
 <div style="display: flex; justify-content: center;">
   <div>
