@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/826814606298316882/1137945283381170206/KT.gif" alt="Goat Klay" />
+  <img src="https://cdn.discordapp.com/attachments/826814606298316882/1142168669875613796/image.png" alt="" width=500 height=350/>
 </div>
 
 <div style="display: flex; justify-content: center;">
