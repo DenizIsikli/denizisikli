@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/826814606298316882/1142168669875613796/image.png" alt="Clarence Kennedy & Toshiki Yamamoto" width=500 height=350/>
+  <img src="https://cdn.discordapp.com/attachments/826814606298316882/1142173434567200869/love.png" alt="Clarence Kennedy & Toshiki Yamamoto" width=500 height=350/>
 </div>
 
 <div style="display: flex; justify-content: center;">
