@@ -20,11 +20,9 @@
 
 ###
 
-<div align="center">
-  
+<div align="center">  
   <img src="https://streak-stats.demolab.com?user=DenizIsikli&locale=en&mode=daily&theme=moltack&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DenizIsikli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenizIsikli&radius=5&theme=tokyo-day&area=true&order=5&bg_color=f5e1c0&area_color=86092b&point=86092b&line=86092b&title_color=86092b&color=86092b" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=DenizIsikli&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
