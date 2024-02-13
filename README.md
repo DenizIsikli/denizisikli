@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Portfolio: https://denizisikli.netlify.app/</h2>
+     <h2><a href="https://denizisikli.netlify.app">Portfolio</a></h2>
 </div>
 
 <div align="center">  
