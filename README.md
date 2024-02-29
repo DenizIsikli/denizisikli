@@ -1,6 +1,7 @@
 <div align="center">
      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=1750&pause=100&multiline=true&width=500&height=80&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;" alt="Typing SVG"/>
      <h2><a href="https://denizisikli.netlify.app">Portfolio</a></h2>
+     <img src="EmployeeOfTheMonth.png" width="45%" height="auto">
 </div>
 
 <div align="center">  
@@ -13,5 +14,4 @@
     <img width="45%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizIsikli&theme=gruvbox&hide_border=false">
     <img width="32.4%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizIsikli&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=DenizIsikli&radius=16&theme=gruvbox&area=true&order=5" height="276" alt="activity-graph graph"/><br><br>
-    <img src="EmployeeOfTheMonth.png" width="50%" height="auto">
 </div>
