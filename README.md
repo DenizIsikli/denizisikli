@@ -1,7 +1,7 @@
 <div align="center">
      <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=1750&pause=100&multiline=true&width=500&height=80&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;" alt="Typing SVG"/>
      <h2><a href="https://denizisikli.netlify.app">Portfolio</a></h2>
-     <img src="EmployeeOfTheMonth.png" width="45%" height="auto">
+     <img src="EmployeesOfTheMonth.png" width="45%" height="auto">
 </div>
 
 <div align="center">  
