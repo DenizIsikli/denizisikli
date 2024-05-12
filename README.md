@@ -1,6 +1,9 @@
-<div align="center">
-     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=1750&pause=100&multiline=true&width=500&height=80&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;" alt="Typing SVG"/>
-     <h2><a href="https://denizisikli.netlify.app">Portfolio</a></h2>
+<div align="center"> 
+     
+[![Deniz Isikli](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&multiline=true&width=560&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
+
+[![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
+
 </div>
 
 <div align="center">  
@@ -14,3 +17,4 @@
      <img width="45%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizIsikli&theme=gruvbox&hide_border=false">
      <img width="32.4%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizIsikli&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
+
