@@ -5,8 +5,9 @@
 [![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
 
 </div>
-
-<div align="center">  
+t
+<div align="center">
+     <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
      <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
