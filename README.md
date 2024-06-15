@@ -5,7 +5,7 @@
 [![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
 
 </div>
-t
+
 <div align="center">
      <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
      <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
