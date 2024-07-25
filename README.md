@@ -1,8 +1,8 @@
 <div align="center"> 
      
-[![Deniz Isikli](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=500&multiline=true&width=560&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
+[![Deniz Isikli](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=500&multiline=true&width=560&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;&color=ebdbb2&center=true&size=20&vCenter=true)](https://denizisikli.netlify.app)
 
-[![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=22&vCenter=true)](https://denizisikli.netlify.app)
+[![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=20&vCenter=true)](https://denizisikli.netlify.app)
 
 </div>
 
