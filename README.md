@@ -1,8 +1,8 @@
 <div align="center"> 
-     
-[![Deniz Isikli](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=500&multiline=true&width=560&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology;&color=ebdbb2&center=true&size=20&vCenter=true)](https://denizisikli.netlify.app)
 
-[![Portfolio](https://readme-typing-svg.demolab.com?font-family=Montserrat&duration=1800&pause=9999999&multiline=true&width=550&height=40&lines=Portfolio&color=ebdbb2&center=true&size=20&vCenter=true)](https://denizisikli.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=400&color=F70E0E&center=true&multiline=true&width=570&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=9999999&color=F70E0E&center=true&multiline=true&width=250&height=40&lines=Portfolio)](https://denizisikli.netlify.app)
 
 </div>
 
