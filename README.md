@@ -1,8 +1,8 @@
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=400&color=F70E0E&center=true&multiline=true&width=570&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=400&color=FFFFFF&center=true&multiline=true&width=570&height=100&lines=Deniz+Isikli;Technical+University+of+Denmark;Bachelor+of+Engineering+in+Software+Technology)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=9999999&color=F70E0E&center=true&multiline=true&width=250&height=40&lines=Portfolio)](https://denizisikli.netlify.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1000&pause=9999999&color=FFFFFF&center=true&multiline=true&width=250&height=40&lines=Portfolio)](https://denizisikli.netlify.app)
 
 </div>
 
