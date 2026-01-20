@@ -20,8 +20,6 @@
      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><br/><br/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenizIsikli)](https://git.io/streak-stats)
-
 <div align="center">
      <img width="45%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizIsikli&theme=gruvbox&hide_border=false">
      <img width="32.4%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenizIsikli&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=tex,html,css">
