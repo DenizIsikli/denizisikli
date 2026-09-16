@@ -13,8 +13,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Debian-191919?style=for-the-badge&logo=debian&logoColor=fb4934">
@@ -33,8 +31,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizIsikli&background=191919&hide_border=false&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff">
