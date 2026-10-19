@@ -59,4 +59,7 @@
 
 <div align="center">
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=DenizIsikli&background=191919&hide_border=false&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff">
+  <br>
+  <img width="45%" src="https://raw.githubusercontent.com/DenizIsikli/SvgGenerator/main/src/svg/leetcodeStats.svg" alt="LeetCode Stats">
+  <img width="45%" src="https://raw.githubusercontent.com/DenizIsikli/SvgGenerator/main/src/svg/codeforceStats.svg" alt="Codeforces Stats">
 </div>
